@@ -1,0 +1,17 @@
+{
+  "name": "dezinewrath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mycss/mystyle.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "bulma": "^0.7.5"
+  }
+}
